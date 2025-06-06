@@ -6,39 +6,6 @@ This project, "E-Commerce Ecosystem," focuses on analyzing e-commerce transactio
 
 The dataset used in this project is sourced from Data.GOV and can be viewed at the following link: [State Agency Amazon Spend Fiscal Year 25](https://catalog.data.gov/dataset/state-agency-amazon-spend-fiscal-year-25).
 
-The dataset includes the following columns:
-* **Order Date**: The date on which the order was placed.
-* **Agency Name**: The name of the agency handling or processing the order.
-* **Payment Date**: The date when the payment was made.
-* **Payment Amount**: The total amount paid for the order.
-* **Shipment Date**: The date when the order was shipped.
-* **Product Category**: The category or type of product purchased.
-* **ASIN**: Amazon Standard Identification Number, a unique identifier for each product.
-* **Title**: The name or description of the product.
-* **UNSPSC**: United Nations Standard Products and Services Code, a global classification system for products and services.
-* **Brand Code**: A code representing the brand of the product.
-* **Brand**: The name of the brand.
-* **Manufacturer**: The entity that manufactures the product.
-* **Item Model Number**: The model number of the item.
-* **Part Number**: A unique number assigned to each part of a product.
-* **Product Condition**: The condition of the product (e.g., new, used).
-* **Listed PPU**: The price per unit as listed.
-* **Purchase PPU**: The price per unit at purchase.
-* **Item Quantity**: The number of units purchased.
-* **Item Subtotal**: The subtotal amount for the items purchased before any additional charges.
-* **Item Shipping & Handling**: The cost associated with shipping and handling.
-* **Item Promotion**: Any promotional discount applied to the item.
-* **Item Tax**: The tax amount applied to the item.
-* **Item Net Total**: The total amount for the item after discounts, shipping, and taxes.
-* **Discount Program**: Information about any discount programs applied.
-* **Pricing Discount Applied ($ off)**: The discount amount applied in dollars.
-* **Pricing Discount Applied (% off)**: The discount percentage applied.
-* **Seller Name**: The name of the seller.
-* **Order Day**: The day of the week when the order was placed (extracted).
-* **Order Delivery Time**: The time taken for the order to be delivered (extracted).
-* **Time to Purchase**: The time elapsed from when the product was listed to when it was purchased (extracted).
-* **Seller Profit**: Seller's earnings after deducting all costs from a sale (extracted).
-
 ### Project Structure
 
 *   `Mid Project - E-Commerce Ecosystem.ipynb`: The main Jupyter Notebook containing the data analysis, visualization, and potentially model training.
